@@ -169,6 +169,14 @@ main>section{
     
  }
 
+
+ /* here is the sponspors desgin */
+
+ .sponspors{
+    text-align: center;
+    
+ }
+
 /* responsive media query  */
 
 @media screen and (max-width: 576px){
